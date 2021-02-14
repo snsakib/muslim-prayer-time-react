@@ -4,6 +4,7 @@ import Header from "./Header";
 import SearchForm from "./SearchForm";
 import PrayerTimings from "./PrayerTimings";
 import Footer from "./Footer";
+import "./styles.css";
 
 const App = () => {
   return (
